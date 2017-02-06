@@ -1,0 +1,205 @@
+@import url(tongyong.css);
+/*banner*/
+.banner{
+    width:100%;
+    height:700px;
+    background: #111  url("../img/img4/1.png") no-repeat -100px 161px;
+    border-top:1px solid #111;
+}
+.banner .dao{
+    width:1200px;
+    height:100px;
+    border-radius: 5px;
+    border:3px solid #110f0f;
+    margin:0 auto;
+    margin-top:35px;
+}
+.banner .hang{
+    width:1194px;
+    height:94px;
+    border-radius: 5px;
+    border:2px solid #5d5c59;
+}
+.banner .dao1{
+    width:1190px;border-radius: 5px;
+    height:90px;background: #000;
+    position: relative;
+}
+.banner .logo{
+    display: block;
+    width:61px;
+    height:61px;
+    background: url("../img/2.png") no-repeat;
+    float: left;
+    margin-top:15px;
+    margin-left:13px;
+}
+.banner .zi{
+    display: block;
+    float: left;
+    height:90px;
+    font-size: 14px;
+    line-height:90px;
+    margin-left:8px;
+    color: #fff;font-weight: 900;
+}
+.banner .caffe{
+    width:860px;
+    height:90px;
+    float: left;line-height: 90px;
+    margin-left:78px;text-align: justify;cursor:default;
+}
+.banner .caffe:after{content: "";
+    display: inline-block;width: 100%;
+}
+.banner .hang2{
+    display: inline-block;
+    color: #fff;
+}
+.banner .hang2:hover{
+    color: #857358;
+}
+.banner .hang3{
+    font-weight:bold;font-size: 14px;
+}
+.banner .ying{
+    color: #fff;font-weight:bold;
+    position: absolute;
+    left:928px;
+    top:60px;
+}
+.banner .ying:hover{
+    color: #857358;
+}
+.banner .shi{
+    width:1200px;
+    height:64px;font-size: 24px;
+    text-align: center;
+    line-height:64px;
+    color: #b5864f;
+    margin-top:445px;
+}
+.banner .shi1{
+    width:1200px;
+    height:50px;font-size: 20px;
+    text-align: center;
+    color: #fff;
+}
+.ma{
+    display: block;
+    width:1200px;
+    height:50px;
+    margin:0 auto;line-height: 50px;
+    padding-left:4px;
+    font-size:14px;
+    color: #000;
+}
+.ma:hover{
+    color: #b5864f;text-decoration: underline;
+}
+/*内容1*/
+.content{
+    width:1060px;
+    height:2550px;
+    margin:0 auto;
+}
+.content .xun{
+    width:1060px;
+    height:32px;
+    border-bottom:1px solid #878585;
+}
+.content .xun1{
+    height:32px;
+    font-size:14px;
+    line-height:32px;
+    color: #b5864f;
+}
+.content .xun2{
+    height:30px;
+    font-size:14px;
+    line-height:30px;
+    color: #333;
+    margin-bottom:25px;
+}
+.content .xun3{
+    color: #555;
+    margin-bottom:25px;
+}
+.content .box{
+    width:1060px;
+    height:450px;
+}
+.content .box1{
+    width:520px;
+    height:418px;
+    float: left;
+    margin-right:20px;margin-bottom: 20px;
+}
+.content .box2{
+    width:520px;
+    height:418px;
+    float: left;margin-bottom: 20px;
+}
+.content .box3{
+    width:1060px;
+    height:900px;
+}
+.content .box4{
+     width:1060px;
+     height:650px;
+ }
+.content .box5{
+    width:452px;
+    height:557px;
+    float: left;
+    margin-right:10px;
+}
+.content .box6{
+    width:596px;
+    height:557px;
+    float: left;
+}
+.content .xun5{
+    border-bottom:1px solid #878585;
+}
+/*内容2*/
+.content2{
+    width:100%;
+    height:527px;
+    background: url("../img/img4/10.jpg") no-repeat -300px -70px;
+    position: relative;
+}
+.content2 .input{
+    width:1200px;
+    height:527px;
+    margin:0 auto;position: relative;
+}
+.content2 .name{
+    width:555px;
+    height:48px;
+    font-size:20px;background: rgba(0,0,0,0.5);
+    border:2px solid #929393;
+    position: absolute;
+    left:16px;
+    top:164px;
+    color: #999797;
+    padding-left:10px;
+}
+.content2 .name1{
+    top:245px;
+}
+.content2 .name2{
+    top:326px;
+}
+.content2 .name3{
+    left:597px;
+    height:234px;
+    line-height:30px;
+}
+.content2 .name5{
+    width:220px;
+    left:477px;
+    top:430px;
+    text-align: center;
+    line-height: 48px;
+}
