@@ -1,16 +1,16 @@
 @import url(../../Home/css/xiangying.css);
 .header{
-    width:100%;height: 1.4rem;
+    width:100%;height: 1.46rem;
     background: #29a6dc;
     padding-top:0.48rem;
     position: relative;
 }
 .header .box{
     width:5.71rem;
-    height:0.84rem;
+    height:0.9rem;
     margin:0 auto;
     background: #2a3441 url("../images/2.png") no-repeat 1.81rem 0.12rem;
-    background-size:0.03rem 0.59rem;
+    background-size:0.03rem 0.6rem;
     border-radius: 0.42rem;
 }
 .header .img{
@@ -47,11 +47,11 @@
 .header .img4{
     display: block;
     width:1.84rem;
-    height:0.7rem;
+    height:0.76rem;
     float: left;
     margin-top:0.07rem;
     background: url("../images/1.png") no-repeat 0.08rem 0;
-    background-size:1.65rem 0.7rem;
+    background-size:1.65rem 0.76rem;
     text-align: center;
     margin-left:0.2rem;
     padding-top: 0.15rem;
@@ -62,7 +62,7 @@
     margin-top:0.12rem;
     float: left;
     background: url("../images/2.png") no-repeat;
-    background-size:0.03rem 0.59rem;
+    background-size:0.03rem 0.6rem;
 }
 .header .box3{
     display: block;
@@ -223,16 +223,19 @@
     display: block;
     width:33.3%;
     height:0.95rem;
-    padding-top:0.60rem;
     border-right:1px solid #717171;
-    background: linear-gradient(to left, #0b1018 ,#151c2a ,#0b1018);
-    background: url("../images/9.png") no-repeat 1rem 0.09rem;
+    background:linear-gradient(to left, #0b1018 0,#151c2a 50%,#0b1018 100%);
     font-size: 0.24rem;
-    background-size:0.52rem 0.45rem;
     color: #fff;
     text-align: center;
     float: left;
-
+}
+.content4 .leftbox img{
+    display: block;
+    width:0.52rem;
+    height:0.45rem;
+    margin:0 auto;
+    margin-top:0.12rem;
 }
 .content4 .leftbox1{
     display: block;
