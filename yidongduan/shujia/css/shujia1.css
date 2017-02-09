@@ -17,6 +17,7 @@
     background: #f6f6f6 url(../images/12.png) no-repeat 0.14rem 0.14rem;
     background-size: 0.32rem 0.3rem;
     padding-left:0.6rem;
+    border:0;
 }
 .box .search1{
     width:0.54rem;
